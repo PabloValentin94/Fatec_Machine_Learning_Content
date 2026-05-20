@@ -1,0 +1,24 @@
+Equação da Regressão Linear Simples:
+
+y = a + b * x
+
+Coeficientes - Cálculo da Reta de Regressão:
+
+a = Soma(y) - b * Soma(x)
+
+b = Quantidade de Amostras * Soma(x * y) - (Soma(x) * Soma(y)) / Quantidade de Amostras Soma(x²) - (Soma(x))²
+
+Colunas Aplicadas:
+
+- Price (2);
+- SQFT_Living (5).
+
+Resultado:
+
+- Correlação: 0.7020 (Forte Correlação Positiva);
+- Determinação: 0.4929 (Poder Fraco de Explicação do Modelo).
+
+Conclusão:
+
+- 70% da variância de preço de um imóvel pode ser explicada com base em quanta área interna ele possui;
+- Em quase 50% dos casos analisados, a quantidade de área interna disponível é o fator crucial para definir seu preço.
