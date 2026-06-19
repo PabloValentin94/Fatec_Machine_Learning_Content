@@ -19,7 +19,7 @@ Veja a seguir o índice para os materiais da disciplina (PDFs).
 
 ## 📝 Aulas
 
-veja a seguir o índice para os arquivos desenvolvidos durante as aulas (Jupyter Notebook).
+Veja a seguir o índice para os arquivos desenvolvidos durante as aulas (Jupyter Notebook).
 
 - Fundamentos
 
@@ -80,7 +80,7 @@ Veja a seguir o índice para os trabalhos propostos no decorrer da disciplina.
 
 ## ▶ Vídeos
 
-Veja a seguir o índice dos vídeos disponibilizados para alguns dos trabalhos citados anteriomente. Devido ao tamanho dos arquivos, é necessários baixá-los ou visualizar pelas postagens do [LinkedIn](https://www.linkedin.com/in/pablo-valentin/).
+Veja a seguir o índice para os vídeos disponibilizados em alguns dos trabalhos citados anteriomente. Devido ao tamanho dos arquivos, é necessários baixá-los ou visualizar pelas postagens do [LinkedIn](https://www.linkedin.com/in/pablo-valentin/).
 
 - Regressão Linear Simples
 
