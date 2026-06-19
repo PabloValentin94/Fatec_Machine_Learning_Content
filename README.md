@@ -23,9 +23,9 @@ Veja a seguir o índice para os arquivos desenvolvidos durante as aulas (Jupyter
 
 - Fundamentos
 
-    - 25/02/2026 [🔗 Abrir](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-02-25)
-    - 10/03/2026 [🔗 Abrir](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-03-10)
-    - 11/03/2026 [🔗 Abrir](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-03-11)
+    - 25/02/2026 [(🔗 Abrir)](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-02-25)
+    - 10/03/2026 [(🔗 Abrir)](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-03-10)
+    - 11/03/2026 [(🔗 Abrir)](https://github.com/PabloValentin94/Fatec_Machine_Learning_Content/tree/master/Aulas/2026-03-11)
 
 - Regressão Linear Simples
 
